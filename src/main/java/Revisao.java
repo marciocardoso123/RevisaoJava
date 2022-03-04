@@ -1,5 +1,5 @@
 public class Revisao {
-//git@github.com:marciocardoso123/RevisaoJava.git
+
     //toda class principal precisa de metodo principal static void main
     //usa variaveis primitivas fortemente tipada
     //todas a Exception ou class precisão ser com iniciais maiusculas por tratar de POO
